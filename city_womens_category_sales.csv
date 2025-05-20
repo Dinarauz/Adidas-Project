@@ -1,0 +1,157 @@
+City,Product,Total_Sales
+Omaha,Women's Athletic Footwear,46567.0
+Baltimore,Women's Athletic Footwear,57324.0
+Des Moines,Women's Athletic Footwear,58966.0
+Minneapolis,Women's Athletic Footwear,60222.0
+Fargo,Women's Athletic Footwear,61583.0
+Milwaukee,Women's Athletic Footwear,62728.0
+Omaha,Women's Street Footwear,65644.0
+Providence,Women's Athletic Footwear,67507.0
+Sioux Falls,Women's Athletic Footwear,68552.0
+Des Moines,Women's Street Footwear,76023.0
+Indianapolis,Women's Athletic Footwear,76138.0
+Milwaukee,Women's Street Footwear,80374.0
+Fargo,Women's Street Footwear,81118.0
+Baltimore,Women's Street Footwear,86461.0
+Chicago,Women's Athletic Footwear,88480.0
+Minneapolis,Women's Street Footwear,89118.0
+Newark,Women's Athletic Footwear,90238.0
+Louisville,Women's Athletic Footwear,90578.0
+Salt Lake City,Women's Athletic Footwear,90778.0
+St. Louis,Women's Athletic Footwear,91009.0
+Philadelphia,Women's Athletic Footwear,92677.0
+Sioux Falls,Women's Street Footwear,93169.0
+Indianapolis,Women's Street Footwear,95622.0
+Providence,Women's Street Footwear,97491.0
+Wichita,Women's Athletic Footwear,98005.0
+St. Louis,Women's Street Footwear,107837.0
+Oklahoma City,Women's Athletic Footwear,109484.0
+Chicago,Women's Street Footwear,110079.0
+Wichita,Women's Street Footwear,111617.0
+Hartford,Women's Athletic Footwear,112596.0
+Boston,Women's Athletic Footwear,114798.0
+Louisville,Women's Street Footwear,116171.0
+Oklahoma City,Women's Street Footwear,116909.0
+Newark,Women's Street Footwear,118744.0
+Salt Lake City,Women's Street Footwear,119023.0
+Omaha,Women's Apparel,120268.0
+Wilmington,Women's Athletic Footwear,124259.0
+Philadelphia,Women's Street Footwear,128497.0
+Boston,Women's Street Footwear,132735.0
+Anchorage,Women's Athletic Footwear,136851.0
+Little Rock,Women's Athletic Footwear,139077.0
+Hartford,Women's Street Footwear,139238.0
+Little Rock,Women's Street Footwear,142465.0
+Burlington,Women's Athletic Footwear,144745.0
+Minneapolis,Women's Apparel,147606.0
+Wilmington,Women's Street Footwear,150229.0
+Baltimore,Women's Apparel,160499.0
+Des Moines,Women's Apparel,164746.0
+Fargo,Women's Apparel,167819.0
+Milwaukee,Women's Apparel,169688.0
+Manchester,Women's Athletic Footwear,172841.0
+Providence,Women's Apparel,176580.0
+Sioux Falls,Women's Apparel,178644.0
+Burlington,Women's Street Footwear,182295.0
+Jackson,Women's Athletic Footwear,182392.0
+Jackson,Women's Street Footwear,183465.0
+Anchorage,Women's Street Footwear,190890.0
+Indianapolis,Women's Apparel,192634.0
+Phoenix,Women's Athletic Footwear,195121.0
+Chicago,Women's Apparel,196091.0
+Billings,Women's Athletic Footwear,203065.0
+St. Louis,Women's Apparel,203704.0
+Newark,Women's Apparel,204249.0
+Louisville,Women's Apparel,204773.0
+Philadelphia,Women's Apparel,205265.0
+Salt Lake City,Women's Apparel,209461.0
+Manchester,Women's Street Footwear,211645.0
+Wichita,Women's Apparel,211883.0
+Detroit,Women's Athletic Footwear,216611.0
+Cheyenne,Women's Athletic Footwear,222836.0
+Boston,Women's Apparel,223026.0
+Columbus,Women's Athletic Footwear,223592.0
+Columbus,Women's Street Footwear,226272.0
+Birmingham,Women's Athletic Footwear,227456.0
+Oklahoma City,Women's Apparel,227680.0
+Knoxville,Women's Athletic Footwear,230546.0
+Detroit,Women's Street Footwear,232596.0
+Atlanta,Women's Athletic Footwear,234085.0
+Hartford,Women's Apparel,239373.0
+Cheyenne,Women's Street Footwear,242214.0
+Billings,Women's Street Footwear,249028.0
+Wilmington,Women's Apparel,252041.0
+Boise,Women's Athletic Footwear,253913.0
+Albuquerque,Women's Athletic Footwear,258282.0
+Phoenix,Women's Street Footwear,258489.0
+Little Rock,Women's Apparel,268807.0
+Las Vegas,Women's Athletic Footwear,269369.0
+Dallas,Women's Athletic Footwear,271893.0
+Richmond,Women's Athletic Footwear,275752.0
+Denver,Women's Athletic Footwear,279999.0
+Burlington,Women's Apparel,285907.0
+Anchorage,Women's Apparel,287751.0
+Honolulu,Women's Athletic Footwear,288476.0
+Atlanta,Women's Street Footwear,295652.0
+Albany,Women's Athletic Footwear,297302.0
+Charlotte,Women's Athletic Footwear,300234.0
+Charlotte,Women's Street Footwear,303997.0
+Phoenix,Women's Apparel,305069.0
+Billings,Women's Apparel,310855.0
+Birmingham,Women's Street Footwear,316011.0
+Knoxville,Women's Street Footwear,318140.0
+Albuquerque,Women's Street Footwear,319009.0
+New Orleans,Women's Athletic Footwear,319719.0
+Albany,Women's Street Footwear,319856.0
+Jackson,Women's Apparel,324367.0
+Manchester,Women's Apparel,325835.0
+Las Vegas,Women's Street Footwear,335058.0
+Denver,Women's Street Footwear,339295.0
+Los Angeles,Women's Athletic Footwear,340281.0
+Richmond,Women's Street Footwear,346496.0
+Boise,Women's Street Footwear,351017.0
+Portland,Women's Athletic Footwear,355312.0
+Atlanta,Women's Apparel,357987.0
+Seattle,Women's Athletic Footwear,358731.0
+Houston,Women's Athletic Footwear,361512.0
+Honolulu,Women's Street Footwear,363042.0
+Orlando,Women's Athletic Footwear,363916.0
+Dallas,Women's Street Footwear,366458.0
+Cheyenne,Women's Apparel,377359.0
+Birmingham,Women's Apparel,377621.0
+Columbus,Women's Apparel,378048.0
+Detroit,Women's Apparel,378655.0
+Knoxville,Women's Apparel,383983.0
+Albuquerque,Women's Apparel,386853.0
+New Orleans,Women's Street Footwear,387469.0
+Miami,Women's Athletic Footwear,391273.0
+Denver,Women's Apparel,393997.0
+Richmond,Women's Apparel,397555.0
+Las Vegas,Women's Apparel,397945.0
+Los Angeles,Women's Street Footwear,399063.0
+Boise,Women's Apparel,403510.0
+Honolulu,Women's Apparel,410695.0
+Miami,Women's Street Footwear,418287.0
+Seattle,Women's Street Footwear,422930.0
+Houston,Women's Street Footwear,423171.0
+Dallas,Women's Apparel,436658.0
+New Orleans,Women's Apparel,444430.0
+Orlando,Women's Street Footwear,449560.0
+Portland,Women's Street Footwear,468420.0
+Seattle,Women's Apparel,471291.0
+Albany,Women's Apparel,477910.0
+Charleston,Women's Athletic Footwear,479596.0
+Charlotte,Women's Apparel,480709.0
+San Francisco,Women's Athletic Footwear,481861.0
+Houston,Women's Apparel,497178.0
+Charleston,Women's Street Footwear,499368.0
+Orlando,Women's Apparel,500581.0
+Los Angeles,Women's Apparel,512439.0
+New York,Women's Athletic Footwear,520107.0
+New York,Women's Street Footwear,537948.0
+San Francisco,Women's Street Footwear,554983.0
+Portland,Women's Apparel,585595.0
+San Francisco,Women's Apparel,608499.0
+Miami,Women's Apparel,628873.0
+New York,Women's Apparel,780140.0
+Charleston,Women's Apparel,814778.0

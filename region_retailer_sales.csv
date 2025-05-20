@@ -1,0 +1,31 @@
+Region,Retailer,Total_Sales
+Midwest,Amazon,1683588.0
+Midwest,Foot Locker,4778748.0
+Midwest,Kohl's,2222946.0
+Midwest,Sports Direct,2620722.0
+Midwest,Walmart,0.0
+Midwest,West Gear,2254066.0
+Northeast,Amazon,3626276.0
+Northeast,Foot Locker,6481680.0
+Northeast,Kohl's,1403121.0
+Northeast,Sports Direct,2469831.0
+Northeast,Walmart,1371202.0
+Northeast,West Gear,3229377.0
+South,Amazon,40909.0
+South,Foot Locker,930708.0
+South,Kohl's,355207.0
+South,Sports Direct,6447205.0
+South,Walmart,3304993.0
+South,West Gear,3308714.0
+Southeast,Amazon,1082636.0
+Southeast,Foot Locker,5966914.0
+Southeast,Kohl's,0.0
+Southeast,Sports Direct,5417866.0
+Southeast,Walmart,2100554.0
+Southeast,West Gear,1749176.0
+West,Amazon,1336503.0
+West,Foot Locker,3780478.0
+West,Kohl's,6230232.0
+West,Sports Direct,1212907.0
+West,Walmart,679101.0
+West,West Gear,13663407.0
