@@ -2,7 +2,7 @@
 ![Adidas-Logo wine](https://github.com/user-attachments/assets/75613b6a-9908-444e-8fba-7366e21d286c)
 
 **Key Objectives:**
-In this project, I used csv file which I have extracted from Kaggle dates from 01/2020 to 01/2022(can't seem to find the author of the data). First I have removed the null values, renamed, and converted the data types. Then I started to work on key questions.
+For this project, I stepped into the role of a data analyst at Adidas, with a goal to understand waht's really driving sales across regions, what products, palces and people. I used csv file which I have extracted from Kaggle dates from 01/2020 to 01/2022(can't seem to find the author of the data). First I have removed the null values, renamed, and converted the data types. Then I started to work on key questions.
 
 **Key Business Questions for Analysis:**
 
