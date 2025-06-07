@@ -52,6 +52,6 @@ In short, the data tells a story of product strength, untapped potential, and sm
 2. [https://public.tableau.com/app/profile/dinara.ibotova/viz/Dashboard2of6AdiddasProject/Dashboard1?publish=yes](https://public.tableau.com/app/profile/dinara.ibotova/viz/AdidasProject-RetailerSalesOverviewDashboard2outof6/Dashboard1?publish=yes)
 3. https://public.tableau.com/app/profile/dinara.ibotova/viz/AdidasProject-RegionalGeographicSalesBreakdown3outof6/Dashboard1?publish=yes
 4. [https://public.tableau.com/app/profile/dinara.ibotova/viz/Dashboard4outof6AdiddasProject/Dashboard1?publish=yes](https://public.tableau.com/app/profile/dinara.ibotova/viz/AdidasProject-GeographicBreakdownofSalesforWomensProductsbyCityDashboard4outof6/Dashboard1?publish=yes)
-5. https://public.tableau.com/app/profile/dinara.ibotova/viz/Dashboard5outof6AdiddasProject/Dashboard1?publish=yes
-6. https://public.tableau.com/app/profile/dinara.ibotova/viz/Book6_17477070474830/Dashboard1?publish=yes
+5. https://public.tableau.com/app/profile/dinara.ibotova/viz/AdidasProject-SeasonalTrendinTotalSalesbyProductDashboard5outof6/Dashboard1?publish=yes
+6. [https://public.tableau.com/app/profile/dinara.ibotova/viz/Book6_17477070474830/Dashboard1?publish=yes](https://public.tableau.com/app/profile/dinara.ibotova/viz/AdidasProject-AverageUnitPricebyProductCategoryDashboard6outof6/Dashboard1?publish=yes)
 
