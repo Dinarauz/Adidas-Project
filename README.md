@@ -44,7 +44,8 @@ In short, the data tells a story of product strength, untapped potential, and sm
 **Tools Used:**
 •	Python (pandas, numpy, seaborn, requests, panel, bokeh, matplotlib) – for data cleaning, analysis, and visualization. -Grouped the data, used Pivot tables
 •	Jupyter Notebook for organizing and running the analysis.
-•	Tableau – for interactive dashboard development and visualization Tableau Public
+•	Tableau – for interactive dashboard development and visualization Tableau Public and Power Bi
+
 
 
 **Dashboard Public:**
