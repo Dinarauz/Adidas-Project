@@ -42,7 +42,7 @@ Analyzed Adidas sales data to figure out what's actually selling, where, and thr
 • Steady growth through end of 2021
 
 ## Technical Details
-**Code:** 
+**Code:** https://github.com/Dinarauz/Adidas-Project/blob/main/Adidas_Project_Final.ipynb
 
 **Data Source:** Kaggle dataset (2020 - 2022 sales records)
 
