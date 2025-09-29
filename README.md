@@ -78,5 +78,6 @@ Look at special releases and collab data to see if limited editions moved the ne
 
 **Power Bi Dashboard**
 1. Power Bi Dashboard pdf: https://github.com/Dinarauz/Adidas-Project/blob/main/Adidas%20Dashboard.pdf
-2.https://app.powerbi.com/groups/me/reports/dc431d78-7d80-4f82-ad87-d15b7c618f1f/e8269ccdcc130836e1b7?experience=power-bi 
+
+(link: https://app.powerbi.com/groups/me/reports/dc431d78-7d80-4f82-ad87-d15b7c618f1f/e8269ccdcc130836e1b7?experience=power-bi)
 
