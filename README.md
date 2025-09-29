@@ -21,23 +21,52 @@ Analyzed Adidas sales data to figure out what's actually selling, where, and thr
 • What's the average price per unit by category?
 
 **Key Findings**
-One product stood out above the rest: Men’s Street Footwear — Adidas’s top performer in both unit sales and operating profit. It was closely followed by Men’s Athletic Footwear and Women’s Apparel, each selling around 400,000 units. Surprisingly, even though Women’s Apparel sold the same number of units as Men’s Athletic Footwear, it generated significantly more profit — hinting at stronger margins or more efficient sales.
+**Clear Winner:** Men's Street Footwear dominated everything highest units sold and best operating profit. Men's Athletic Footwear and Women's Apparel each sold around 400K units, but Women's Apparel generated way more profit despite the same volume. Better margins or smarter pricing.
 
-On the flip side, Men’s Apparel consistently underperformed across all metrics. It ranked lowest in unit sales and had especially weak performance in regions like the Midwest, where even footwear did better. Across all states, Women’s Athletic Footwear showed up as the least-sold category, suggesting a broader trend in consumer preferences.
+**Underperformers:** Men's Apparel struggled across the board lowest sales and especially weak in the Midwest. Women's Athletic Footwear was consistently the least-sold category nationwide.
 
-Regionally, the West led demand, particularly for Men’s Street Footwear, followed by the Northeast and Midwest. At the state level, New York, Florida, California, Texas, and South Carolina made up Adidas’s top five markets by sales, while Nebraska recorded the lowest profit overall.
+**Regional Breakdown:**
+• West region led demand, especially for Men's Street Footwear
+• Top 5 states: New York, Florida, California, Texas, South Carolina
+• Nebraska had the lowest profit overall
 
-Retailer performance was equally telling. West Gear and Foot Locker topped the list, while Amazon and Walmart fell behind. Even so, Kohl’s held a strong middle ground with nearly 300,000 units sold. These patterns suggest clear opportunities: double down on strong partners, and re-energize weaker channels with exclusive product drops or limited-edition releases to spark interest.
+**Retailer Performance:**
+• Winners: West Gear and Foot Locker
+• Middle: Kohl's (solid ~300K units)
+• Lagging: Amazon and Walmart
 
-Looking at the big picture, sales trends revealed a clear spike in early 2021, with most categories showing steady growth through the end of the year. That followed a noticeable dip in mid-2020 — likely pandemic-related. Interestingly, Men’s Athletic Footwear remained stable throughout, showing consistent demand even as other categories fluctuated.
+**Trends Over Time:**
+• Big spike in early 2021
+• Mid-2020 dip (probably pandemic-related)
+• Men's Athletic Footwear stayed stable throughout while other categories fluctuated
+• Steady growth through end of 2021
 
-In short, the data tells a story of product strength, untapped potential, and smart opportunities. Adidas could benefit from investing more in what’s working — like footwear and strong regional markets — while rethinking how to position underperformers like Men’s Apparel, perhaps with fresh designs, influencer campaigns, or limited releases to bring the brand back into the spotlight. Especially Adidas has done that before with Equipment and Stella McCartney. Next step would be to see the data from the special release and collabs to see if Men's Apparel as well as Women's Athletic Footwear sales has changed if it did. Then it might be a time for a new collab.
+## Technical Details
+**Code:** 
+
+**Data Source:** Kaggle dataset (2020 - 2022 sales records)
+
+**Analysis Process:**
+• Cleaned data: removed nulls, standardized column names, fixed data types
+• Used pandas for data manipulation and pivot tables
+• Created multiple visualizations with seaborn, matplotlib, and bokeh
+• Built 6 separate Tableau dashboards + Power BI report
 
 **Tools Used:**
 •	Python (pandas, numpy, seaborn, requests, panel, bokeh, matplotlib) – for data cleaning, analysis, and visualization. -Grouped the data, used Pivot tables
 •	Jupyter Notebook for organizing and running the analysis.
-•	Tableau – for interactive dashboard development and visualization Tableau Public and Power Bi
+•	Tableau Public – for interactive dashboard development
+• Power Bi visualization
 
+## Business Recommendations
+1. **Double down on footwear:** Men's Street Footwear is clearly the cash cow  keep investing here
+2. **Fix Men's Apparel:** This category needs a refresh - maybe limited drops, influencer collabs, or new designs
+3. **Regional focus:** Push harder in the West and top 5 states where demand is proven
+4. **Retailer strategy:** Strengthen partnerships with West Gear and Foot Locker, figure out why Amazon/Walmart underperform
+5. **Women's Athletic Footwear:** Nationwide underperformer - needs marketing attention or product redesign
+
+## Next Steps
+Look at special releases and collab data to see if limited editions moved the needle for underperforming categories. Adidas has done this successfully before with Equipment and Stella McCartney lines worth seeing if that strategy works for Men's Apparel and Women's Athletic Footwear.
 
 **Dashboard Public:**
 1. [https://public.tableau.com/app/profile/dinara.ibotova/viz/Dashboard1of6AdiddasProject/Dashboard1?publish=yes](https://public.tableau.com/app/profile/dinara.ibotova/viz/AdidasProject-SalesProfitPerformanceDashboard1outof6/Dashboard1)
