@@ -1,32 +1,24 @@
-# Adidas-Project Analysis 
+# Adidas Sales Analysis - Retail Analytics & Consumer Goods
 ![Adidas-Logo wine](https://github.com/user-attachments/assets/75613b6a-9908-444e-8fba-7366e21d286c)
 
-**Key Objectives:**
-For this project, I stepped into the role of a data analyst at Adidas, with a goal to understand waht's really driving sales across regions, what products, places and people. I used csv file which I have extracted from Kaggle dates from 01/2020 to 01/2022(can't seem to find the author of the data). First I have removed the null values, renamed, and converted the data types. Then I started to work on key questions.
+## Product Performance & Regional Sales Insights (2020 - 2022)
+Analyzed Adidas sales data to figure out what's actually selling, where, and through which channels. Found some clear winners (Men's Street Footwear) and some categories that need work (Men's Apparel).
 
 **Key Business Questions for Analysis:**
 
-**1. Top Performing Products by Channel and Profitability**
-Which products are sold the most by each sales method (online vs in-store)
-Which product categories contribute the most to operating profit?
-How do product sales and profits vary across different departments or regions?
+**1. Product Performance:**
+• Which products sell best by channel (online vs in-store)?
+• What categories make the most profit?
+• How do sales vary across regions?
 
-**2. Retail Sales Performance**
-Which retailer generates the highest and lowest total sales?
-How does each retailer perform in terms of operating profit and sales volume?
+**2. Retail & Geographic:**
+• Which retailers are crushing it and which aren't?
+• What states and cities generate the most sales?
+• Are there regional patterns worth noting?
 
-**3. Geographic Sales Insights**
-Which states and cities generate the highest total sales?
-Are there specific regions that consistently outperform others in terms of sales or profitability? (Which retailers dominate in different regions?)
-
-**4. Category-Specific Performance**
-Which cities have the highest sales for Women’s Street Footwear and Women’s Apparel?
-
-**5. Seasonality & Trends**
-Are there seasonal patterns in total sales and product performance??
-
-**6. Sales Efficiency**
-What is the average price per unit sold per category?
+**3. Market Trends:**
+• Any seasonal patterns in sales?
+• What's the average price per unit by category?
 
 **Key Findings**
 One product stood out above the rest: Men’s Street Footwear — Adidas’s top performer in both unit sales and operating profit. It was closely followed by Men’s Athletic Footwear and Women’s Apparel, each selling around 400,000 units. Surprisingly, even though Women’s Apparel sold the same number of units as Men’s Athletic Footwear, it generated significantly more profit — hinting at stronger margins or more efficient sales.
@@ -47,7 +39,6 @@ In short, the data tells a story of product strength, untapped potential, and sm
 •	Tableau – for interactive dashboard development and visualization Tableau Public and Power Bi
 
 
-
 **Dashboard Public:**
 1. [https://public.tableau.com/app/profile/dinara.ibotova/viz/Dashboard1of6AdiddasProject/Dashboard1?publish=yes](https://public.tableau.com/app/profile/dinara.ibotova/viz/AdidasProject-SalesProfitPerformanceDashboard1outof6/Dashboard1)
 2. [https://public.tableau.com/app/profile/dinara.ibotova/viz/Dashboard2of6AdiddasProject/Dashboard1?publish=yes](https://public.tableau.com/app/profile/dinara.ibotova/viz/AdidasProject-RetailerSalesOverviewDashboard2outof6/Dashboard1?publish=yes)
@@ -58,5 +49,4 @@ In short, the data tells a story of product strength, untapped potential, and sm
 
 **Power Bi Dashboard**
 1.https://app.powerbi.com/groups/me/reports/dc431d78-7d80-4f82-ad87-d15b7c618f1f/e8269ccdcc130836e1b7?experience=power-bi
-
 
