@@ -48,6 +48,6 @@ In short, the data tells a story of product strength, untapped potential, and sm
 6. [https://public.tableau.com/app/profile/dinara.ibotova/viz/Book6_17477070474830/Dashboard1?publish=yes](https://public.tableau.com/app/profile/dinara.ibotova/viz/AdidasProject-AverageUnitPricebyProductCategoryDashboard6outof6/Dashboard1?publish=yes)
 
 **Power Bi Dashboard**
-1.https://app.powerbi.com/groups/me/reports/dc431d78-7d80-4f82-ad87-d15b7c618f1f/e8269ccdcc130836e1b7?experience=power-bi 
-https://github.com/Dinarauz/Adidas-Project/blob/main/Adidas%20Dashboard.pdf
+1. Power Bi Dashboard pdf: https://github.com/Dinarauz/Adidas-Project/blob/main/Adidas%20Dashboard.pdf
+2.https://app.powerbi.com/groups/me/reports/dc431d78-7d80-4f82-ad87-d15b7c618f1f/e8269ccdcc130836e1b7?experience=power-bi 
 
